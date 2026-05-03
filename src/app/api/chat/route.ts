@@ -35,21 +35,21 @@ export async function POST(req: NextRequest) {
       max_tokens: 500,
     });
 
-    // Log conversation (best effort, non-blocking)
+    // Log conversation (best effort, non-blocking — fire-and-forget)
     const ip =
       req.headers.get("x-forwarded-for")?.split(",")[0] ||
       req.headers.get("x-real-ip") ||
       "";
-    supabase
-      .from("portfolio_chats")
-      .insert({
+    try {
+      await supabase.from("portfolio_chats").insert({
         session_id: session_id || "anonymous",
         user_message: message,
         bot_reply: reply,
         ip_address: ip,
-      })
-      .then(() => {})
-      .catch(() => {}); // silent fail — analytics shouldn't block UX
+      });
+    } catch {
+      // silent fail — analytics shouldn't block UX
+    }
 
     return NextResponse.json({ reply });
   } catch (e: any) {
