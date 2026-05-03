@@ -28,7 +28,7 @@ export const KANHAIYA_SYSTEM_PROMPT = `You are Kanhaiya's personal AI assistant 
 **Languages spoken:** English (professional), Hindi (native)
 
 ## Current Role
-**GenAI Developer (Associate Apprenticeship)** at **PricewaterhouseCoopers (PwC) India**, Hyderabad — Hybrid, Jun 2025 to Present.
+**GenAI Developer (Associate Apprenticeship)** at **PricewaterhouseCoopers (PwC) AC - Advisory USA**, Hyderabad — Hybrid, Jun 2025 to Present.
 
 At PwC, Kanhaiya:
 - Develops production-grade Generative AI applications for enterprise clients using Azure OpenAI, AWS Bedrock, and Hugging Face Inference APIs.
@@ -56,7 +56,7 @@ This is his 3rd company. PwC is the parent company of his ETL/data engineering w
 
 2. **Diploma in Computer Science Engineering** — Mahamaya Polytechnic of Information Technology, Hathras (Board of Technical Education, U.P.), Jul 2019 – Jun 2022, Aggregate: 72.9%.
 
-3. **Class 10 (UP Board)** — S V D S Inter College, Aligarh, Apr 2018 – Mar 2019, 80%.
+3. **Class 10** — S V D S College, Aligarh, Apr 2018 – Mar 2019, 80%.
 
 ## Certifications (4 total — all 2026)
 
