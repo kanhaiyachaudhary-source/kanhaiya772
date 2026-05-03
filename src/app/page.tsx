@@ -101,7 +101,7 @@ export default function Home() {
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-              I&apos;m a <strong>GenAI Developer</strong> based in Gurugram, currently working at <strong>PwC India</strong> as part of the GenAI Developer Associate Apprenticeship — building production-grade AI applications for enterprise clients using <strong>Azure OpenAI</strong>, <strong>AWS Bedrock</strong>, and <strong>Hugging Face</strong>.
+              I&apos;m a <strong>GenAI Developer</strong> based in Gurugram, currently working at <strong>PwC AC - Advisory USA</strong> as part of the GenAI Developer Associate Apprenticeship — building production-grade AI applications for enterprise clients using <strong>Azure OpenAI</strong>, <strong>AWS Bedrock</strong>, and <strong>Hugging Face</strong>.
             </p>
             <p>
               My journey started with a <strong>Diploma in Computer Science</strong> at Mahamaya Polytechnic, then a <strong>B.Tech in CSE</strong> from AKTU. Along the way I interned at <strong>Atharvo</strong> (Machine Learning) and <strong>Amazon</strong> (Quality Assurance) before joining PwC.
@@ -117,7 +117,7 @@ export default function Home() {
             <div className="about-card reveal">
               <div className="about-card-icon">🚀</div>
               <div className="about-card-title">Current Role</div>
-              <div className="about-card-value">GenAI Developer<br/>at PwC India</div>
+              <div className="about-card-value">GenAI Developer<br/>at PwC AC - Advisory USA</div>
             </div>
             <div className="about-card reveal">
               <div className="about-card-icon">📍</div>
