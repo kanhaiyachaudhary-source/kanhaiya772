@@ -401,8 +401,8 @@ export default function Home() {
           </div>
           <div className="edu-card reveal">
             <div className="edu-period">Apr 2018 — Mar 2019</div>
-            <div className="edu-degree">Class 10 (UP Board)</div>
-            <div className="edu-school">S V D S Inter College, Aligarh</div>
+            <div className="edu-degree">High School</div>
+            <div className="edu-school">S V D S College, Aligarh</div>
             <div className="edu-grade">📊 80%</div>
           </div>
           <div className="edu-card reveal">
