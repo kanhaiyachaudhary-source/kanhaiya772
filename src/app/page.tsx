@@ -401,6 +401,16 @@ export default function Home() {
               </div>
             </div>
           </div>
+           <div className="cert-card reveal">
+            <div className="cert-icon" style={{ background: "linear-gradient(135deg, #d97757, #c45e3d)" }}>A</div>
+            <div className="cert-info">
+              <div className="cert-name">Deploy an Agent with Agent Development Kit </div>
+              <div className="cert-issuer">Google · 2026</div>
+              <div className="cert-actions">
+                <a href="https://partner.skills.google/public_profiles/624bf52f-1c1e-4939-8f68-4cd07de6ff30/badges/24753281?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
