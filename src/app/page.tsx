@@ -55,10 +55,10 @@ export default function Home() {
           <h1>Kanhaiya<br/>Chaudhary</h1>
           <div className="hero-typed" id="typed">GenAI Developer</div>
           <p className="hero-bio">
-            Building intelligent systems at <strong>PwC</strong> — my third company. Specialised in
-            <strong> agentic AI</strong>, prompt engineering, and LLM-powered automation.
+            Building intelligent tools and systems at <strong>PwC</strong>. Specialised in
+            <strong> agentic AI</strong>, prompt-engineering, and LLM-powered automation.
             AWS Certified <strong>AI Practitioner</strong> &amp; <strong>GenAI Developer Professional</strong>.
-            Passionate about turning cutting-edge models into real-world products.
+            Passionate about turning cutting-edge LLMs into real-world products.
           </p>
           <div className="hero-cta">
             <a href="#projects" className="btn btn-primary">View My Work →</a>
