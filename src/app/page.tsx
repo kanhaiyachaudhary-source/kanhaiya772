@@ -418,7 +418,6 @@ export default function Home() {
       <section id="education" data-num="07 — EDUCATION">
         <div className="section-label reveal">Academic Background</div>
         <h2 className="section-title reveal">Education</h2>
-        <p className="section-subtitle reveal">Computer science from Diploma → B.Tech, plus high school fundamentals.</p>
         <div className="edu-grid">
           <div className="edu-card reveal">
             <div className="edu-period">Nov 2022 — Jul 2025</div>
@@ -434,7 +433,7 @@ export default function Home() {
           </div>
           <div className="edu-card reveal">
             <div className="edu-period">Apr 2018 — Mar 2019</div>
-            <div className="edu-degree">High School (UP Board)</div>
+            <div className="edu-degree">High School</div>
             <div className="edu-school">S V D S College, Aligarh</div>
             <div className="edu-grade">📊 80%</div>
           </div>
