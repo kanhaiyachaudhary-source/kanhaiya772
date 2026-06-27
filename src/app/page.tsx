@@ -394,7 +394,7 @@ export default function Home() {
            <div className="cert-card reveal">
             <div className="cert-icon" style={{ background: "linear-gradient(135deg, #d97757, #c45e3d)" }}>A</div>
             <div className="cert-info">
-              <div className="cert-name">Streamline Application Development with Gemini CLI</div>
+              <div className="cert-name">Accelerate Development with Antigravity</div>
               <div className="cert-issuer">Google · 2026</div>
               <div className="cert-actions">
                 <a href="https://www.credly.com/badges/7e1a6f10-4417-4dfb-9c52-c14b94dbe7b4" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
