@@ -149,14 +149,13 @@ export default function Home() {
       <section id="experience" data-num="03 — EXPERIENCE">
         <div className="section-label reveal">Experience</div>
         <h2 className="section-title reveal">Where I&apos;ve worked</h2>
-        <p className="section-subtitle reveal">From manual testing to production GenAI — three diverse roles.</p>
         <div className="timeline">
           <div className="timeline-item reveal">
             <div className="timeline-meta">Jun 2025 — Present</div>
             <div className="timeline-role">GenAI Developer (Associate Apprenticeship)</div>
             <div className="timeline-company">PwC AC — US Advisory <span className="loc">· Hyderabad · Hybrid</span></div>
             <ul className="timeline-bullets">
-              <li>Develop production-grade Generative AI applications for enterprise clients using Azure OpenAI, AWS Bedrock, and Hugging Face Inference APIs.</li>
+              <li>Develop production-grade Generative AI applications for enterprise clients.</li>
               <li>Design and implement RAG pipelines integrating Azure AI Search, vector embeddings, and LLM-based response generation.</li>
               <li>Build agentic AI workflows using function calling and tool-use patterns to automate document processing.</li>
               <li>Apply prompt engineering best practices to optimize LLM accuracy, reduce hallucinations, and minimize token costs.</li>
@@ -300,8 +299,9 @@ export default function Home() {
             <div className="skill-list">
               <span className="skill-tag">Azure OpenAI</span><span className="skill-tag">Azure AI Studio</span>
               <span className="skill-tag">AWS Bedrock</span><span className="skill-tag">AWS SageMaker</span>
+               <span className="skill-tag">Gemini Ai Studio</span><span className="skill-tag">Guidewire Agentic Studio</span>
               <span className="skill-tag">Hugging Face</span><span className="skill-tag">Anthropic Claude</span>
-              <span className="skill-tag">OpenAI GPT-4</span><span className="skill-tag">LangChain</span>
+              <span className="skill-tag">OpenAI </span><span className="skill-tag">LangChain</span>
             </div>
           </div>
           <div className="skill-cat reveal">
