@@ -375,7 +375,7 @@ export default function Home() {
               <div className="cert-name">ML Engineer Associate</div>
               <div className="cert-issuer">Amazon Web Services · 2026</div>
               <div className="cert-actions">
-                <a href="https://cp.certmetrics.com/amazon/en/credentials/status/3801756" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
+                <a href="https://www.credly.com/badges/e90b680b-9e5c-4c7f-9f97-1507f5949058/linked_in_profile" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
                 <a href="/files/AWS_Certified_Machine_Learning_Engineer_Associate.pdf" download className="cert-btn">↓ PDF</a>
               </div>
             </div>
