@@ -383,10 +383,10 @@ export default function Home() {
           <div className="cert-card reveal">
             <div className="cert-icon" style={{ background: "linear-gradient(135deg, #d97757, #c45e3d)" }}>A</div>
             <div className="cert-info">
-              <div className="cert-name">Claude 101 &amp; Claude Code 101</div>
+              <div className="cert-name">Claude Certified Architect - CCF</div>
               <div className="cert-issuer">Anthropic · 2026</div>
               <div className="cert-actions">
-                <a href="https://verify.skilljar.com/c/rcr53h8d7k5t" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
+                <a href="https://verify.skilljar.com/c/hck4bsjbya8c" target="_blank" rel="noopener" className="cert-btn">Verify ↗</a>
                 <a href="/files/Anthropic_Claude_101.pdf" download className="cert-btn">↓ PDF</a>
               </div>
             </div>
