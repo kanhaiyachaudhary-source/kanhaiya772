@@ -104,14 +104,14 @@ export default function Home() {
       <section id="about" data-num="02 — ABOUT">
         <div className="section-label reveal">About</div>
         <h2 className="section-title reveal">A bit about me</h2>
-        <p className="section-subtitle reveal">From Diploma in CSE to building production GenAI at PwC.</p>
+        <p className="section-subtitle reveal">From campus to building GenAI.</p>
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-              I&apos;m a <strong>GenAI Developer</strong> based in Gurugram, currently working at <strong>PwC AC (Acceleration Center) — US Advisory</strong> as part of the GenAI Developer Associate Apprenticeship — building production-grade AI applications for enterprise clients using <strong>Azure OpenAI</strong>, <strong>AWS Bedrock</strong>, and <strong>Hugging Face</strong>.
+              I&apos;m a <strong>GenAI Developer</strong> based in Gurugram, currently working at <strong>PwC AC (Acceleration Center) — US Advisory</strong> as part of the Associate Apprenticeship — building production-grade AI applications for enterprise clients using <strong>Azure OpenAI</strong>, <strong>AWS Bedrock</strong>, and <strong>Hugging Face</strong>.
             </p>
             <p>
-              My journey started with a <strong>Diploma in Computer Science</strong> at Mahamaya Polytechnic, then a <strong>B.Tech in CSE</strong> from AKTU. Along the way I interned at <strong>Atharvo</strong> (Machine Learning) and <strong>Amazon</strong> (Quality Assurance) before joining PwC.
+              My journey started with a <strong>Diploma in Computer Science</strong>, then a <strong>B.Tech in CSE</strong> from AKTU. Along the way I interned at <strong>Atharvo</strong> (Machine Learning) and <strong>Amazon</strong> (Quality Assurance) before joining PwC.
             </p>
             <p>
               I love building things — I&apos;ve shipped <strong>4 production AI applications</strong> from scratch covering RAG, agentic AI with function calling, and conversational AI. I&apos;m obsessed with prompt engineering, LLM evaluation, and the intersection of AI &amp; great UX.
